@@ -23,4 +23,4 @@ branches:
 
 env:
  global:
-   - GH_REF: github.com/jenly1314/jenly1314.github.io.git
+   - GH_REF: github.com/yetel/yetel.github.io.git
